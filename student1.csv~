@@ -1,0 +1,4 @@
+ID;Name;Password;Father's Name;Gender;emailid;phone;ssc;inter;btech;scholarship;backlogs;achievements;DOB;department;
+N100001;POLAVARAPUKARUNA KISHORE;Password;POLAVARAPU ESWARARAO;male;temp@gmail.com;8955712123;450;800;1400;clear;0;null;1991-6-2;CSE
+N100002;SAMBANGI UDAYKUMAR;Password;RAMESH;male;temp@gmail.com;8955712124;451;801;1401;clear;1;null;1991-6-2;ECE
+N100003;ABDUL RAHEEM;Password;GAPHUR;male;temp@gmail.com;8955712125;452;802;1402;clear;2;null;1991-6-2;CIV
